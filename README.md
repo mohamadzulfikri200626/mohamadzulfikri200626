@@ -1,15 +1,10 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=800&size=42&duration=1&pause=999999&color=E53935&center=true&vCenter=true&repeat=false&width=400&height=70&lines=ZULZUL" alt="ZULZUL" /> </h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
-  <rect width="800" height="40" fill="#0d1117"/>
-  <text x="800" y="27" fill="#E53935" font-family="Arial, sans-serif" font-size="20" font-weight="bold">
-    INFORMATION SYSTEMS STUDENT · ASPIRING DEVELOPER
-    <animate attributeName="x" from="800" to="-600" dur="12s" repeatCount="indefinite"/>
-  </text>
-</svg>
 
-![Animated Text](./animated-text.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E53935&center=true&vCenter=true&width=800&lines=INFORMATION+SYSTEMS+STUDENT+%C2%B7+ASPIRING+DEVELOPER" alt="INFORMATION SYSTEMS STUDENT · ASPIRING DEVELOPER" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&labelColor=111111" alt="Status: Learning" />
