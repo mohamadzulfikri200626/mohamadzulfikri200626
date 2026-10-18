@@ -41,7 +41,7 @@ I'm passionate about technology, web development, and creating interactive exper
 My personal digital space for projects, mini games, experiments, and my journey into technology.
 
 <p>
-  <a href="https://mohamadzulfikri200626-coder.github.io/zulzul-world/">
+  <a href="https://mohamadzulfikri200626.github.io/zulzul-world/">
     <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B0000?style=for-the-badge&labelColor=111111" alt="Explore ZulZul World" />
   </a>
 </p>
