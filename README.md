@@ -9,6 +9,8 @@
   </text>
 </svg>
 
+![Animated Text](./animated-text.svg)
+
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&labelColor=111111" alt="Status: Learning" />
   <img src="https://img.shields.io/badge/BASED_ON-CURIOSITY-8B0000?style=for-the-badge&labelColor=111111" alt="Driven by curiosity" />
