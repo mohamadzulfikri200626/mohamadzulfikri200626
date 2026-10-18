@@ -1,9 +1,7 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Arial+Black&weight=800&size=42&duration=1&pause=999999&color=E53935&center=true&vCenter=true&repeat=false&width=400&height=70&lines=ZULZUL" alt="ZULZUL" /> </h1>
 
-<p align="center">
-  <strong>INFORMATION SYSTEMS STUDENT · ASPIRING DEVELOPER</strong>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E53935&width=500&lines=Hello%2C+I'm+Zulzul!;Front-End+Developer;Web+Development+Enthusiast)
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-LEARNING-8B0000?style=for-the-badge&labelColor=111111" alt="Status: Learning" />
